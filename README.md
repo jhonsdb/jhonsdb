@@ -40,15 +40,6 @@ const jhonsdb = {
 
 
 
-
- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" />
-
-
-
- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" />
-
- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> 
-
  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />
 
  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" />
