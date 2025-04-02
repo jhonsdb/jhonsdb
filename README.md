@@ -24,7 +24,7 @@ const jhonsdb = {
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />I'm working on my progress on the code ...
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsdb&theme=tokyonight&show_icons=true" />
+
 
 
 
